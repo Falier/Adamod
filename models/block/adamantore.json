@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymodpack:blocks/damantre",
+    "up": "mymodpack:blocks/damantre",
+    "north": "mymodpack:blocks/damantre",
+    "east": "mymodpack:blocks/damantre",
+    "south": "mymodpack:blocks/damantre",
+    "west": "mymodpack:blocks/damantre",
+    "particle": "mymodpack:blocks/damantre"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymodpack:blocks/damantlock",
+    "up": "mymodpack:blocks/damantlock",
+    "north": "mymodpack:blocks/damantlock",
+    "east": "mymodpack:blocks/damantlock",
+    "south": "mymodpack:blocks/damantlock",
+    "west": "mymodpack:blocks/damantlock",
+    "particle": "mymodpack:blocks/damantlock"
+  }
+}

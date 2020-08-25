@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mymodpack:blocks/strawberry_bush",
+    "particle": "mymodpack:blocks/strawberry_bush"
+  }
+}

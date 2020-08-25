@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "mymodpack:block/adamantdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "mymodpack:block/adamantdimension_portal_ns"
+    }
+  }
+}

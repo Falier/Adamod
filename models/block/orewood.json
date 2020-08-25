@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymodpack:blocks/toneexture",
+    "up": "mymodpack:blocks/toneexture",
+    "north": "mymodpack:blocks/toneexture",
+    "east": "mymodpack:blocks/toneexture",
+    "south": "mymodpack:blocks/toneexture",
+    "west": "mymodpack:blocks/toneexture",
+    "particle": "mymodpack:blocks/toneexture"
+  }
+}

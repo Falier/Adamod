@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymodpack:blocks/ossilre",
+    "up": "mymodpack:blocks/ossilre",
+    "north": "mymodpack:blocks/ossilre",
+    "east": "mymodpack:blocks/ossilre",
+    "south": "mymodpack:blocks/ossilre",
+    "west": "mymodpack:blocks/ossilre",
+    "particle": "mymodpack:blocks/ossilre"
+  }
+}

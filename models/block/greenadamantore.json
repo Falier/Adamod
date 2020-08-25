@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymodpack:blocks/reendamantre",
+    "up": "mymodpack:blocks/reendamantre",
+    "north": "mymodpack:blocks/reendamantre",
+    "east": "mymodpack:blocks/reendamantre",
+    "south": "mymodpack:blocks/reendamantre",
+    "west": "mymodpack:blocks/reendamantre",
+    "particle": "mymodpack:blocks/reendamantre"
+  }
+}
