@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:FossilOre"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.BONE"
+    },
+    "name": "smeltfossilore",
+    "namespace": "mod"
+  }
+}

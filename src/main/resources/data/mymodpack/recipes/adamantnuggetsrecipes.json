@@ -1,0 +1,16 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "mymodpack:adamantingots"
+    }
+  },
+  "result": {
+    "item": "mymodpack:adamantnuggets",
+    "count": 9
+  }
+}

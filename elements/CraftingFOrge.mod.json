@@ -1,0 +1,213 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #0",
+          "x": 320,
+          "y": 117
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #2",
+          "x": 318,
+          "y": 161
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #3",
+          "x": 319,
+          "y": 202
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #4",
+          "x": 318,
+          "y": 75
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #5",
+          "x": 358,
+          "y": 200
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #6",
+          "x": 355,
+          "y": 159
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 7,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #7",
+          "x": 359,
+          "y": 116
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 8,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #8",
+          "x": 356,
+          "y": 73
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 10,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #10",
+          "x": 397,
+          "y": 75
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 9,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #9",
+          "x": 398,
+          "y": 112
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 11,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #11",
+          "x": 400,
+          "y": 158
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 12,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #12",
+          "x": 399,
+          "y": 199
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 13,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #13",
+          "x": 438,
+          "y": 74
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 14,
+          "name": "Slot #14",
+          "x": 440,
+          "y": 114
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 15,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #15",
+          "x": 438,
+          "y": 157
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 16,
+          "onStackTransfer": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #16",
+          "x": 441,
+          "y": 198
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 17,
+          "onTakenFromSlot": {
+            "name": "AdvancedCraft"
+          },
+          "name": "Slot #17",
+          "x": 516,
+          "y": 139
+        }
+      }
+    ]
+  }
+}

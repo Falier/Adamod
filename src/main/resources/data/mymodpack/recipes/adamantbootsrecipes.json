@@ -1,0 +1,26 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mymodpack:adamantingots"
+    },
+    "2": {
+      "item": "mymodpack:adamantingots"
+    },
+    "3": {
+      "item": "mymodpack:adamantingots"
+    },
+    "5": {
+      "item": "mymodpack:adamantingots"
+    }
+  },
+  "result": {
+    "item": "mymodpack:adamantarmorboots",
+    "count": 1
+  }
+}

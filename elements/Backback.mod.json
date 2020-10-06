@@ -1,0 +1,93 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "name": "Slot #0",
+          "x": 259,
+          "y": 126
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 298,
+          "y": 126
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "name": "Slot #3",
+          "x": 336,
+          "y": 126
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "name": "Slot #4",
+          "x": 376,
+          "y": 126
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "name": "Slot #5",
+          "x": 417,
+          "y": 127
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "name": "Slot #6",
+          "x": 455,
+          "y": 127
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 7,
+          "name": "Slot #7",
+          "x": 494,
+          "y": 127
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 8,
+          "name": "Slot #8",
+          "x": 532,
+          "y": 127
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 9,
+          "name": "Slot #9",
+          "x": 569,
+          "y": 127
+        }
+      }
+    ]
+  }
+}

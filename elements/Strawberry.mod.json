@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "trawbery",
+    "customModelName": "Normal",
+    "name": "Strawberry",
+    "creativeTab": {
+      "value": "CUSTOM:Adamant"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 1.0,
+    "eatingSpeed": 30,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

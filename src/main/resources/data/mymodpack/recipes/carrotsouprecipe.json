@@ -1,0 +1,26 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:carrot"
+    },
+    "1": {
+      "item": "minecraft:carrot"
+    },
+    "2": {
+      "item": "minecraft:carrot"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "mymodpack:carrotsoup",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "1": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "2": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "3": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "4": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "5": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "6": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "7": {
+      "item": "mymodpack:greenadamantfragment"
+    },
+    "8": {
+      "item": "mymodpack:greenadamantfragment"
+    }
+  },
+  "result": {
+    "item": "mymodpack:greenadamantingot",
+    "count": 1
+  }
+}

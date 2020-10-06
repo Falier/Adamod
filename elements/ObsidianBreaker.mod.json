@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bsidianreaker",
+    "customModelName": "Normal",
+    "name": "Obsidian Breaker",
+    "creativeTab": {
+      "value": "CUSTOM:Adamant"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

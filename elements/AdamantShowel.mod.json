@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "damanthowel",
+    "customModelName": "Normal",
+    "name": "Adamant Showel",
+    "creativeTab": {
+      "value": "CUSTOM:Adamant"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 12,
+    "damageVsEntity": 4.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AdamantIngots"
+      }
+    ]
+  }
+}

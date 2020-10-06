@@ -1,0 +1,32 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "5": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "mymodpack:wetsuithelmet",
+    "count": 1
+  }
+}

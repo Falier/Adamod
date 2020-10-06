@@ -1,0 +1,11 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:smelting",
+  "experience": 20,
+  "ingredient": {
+    "item": "mymodpack:adamantore"
+  },
+  "result": {
+    "item": "mymodpack:adamantingots"
+  }
+}

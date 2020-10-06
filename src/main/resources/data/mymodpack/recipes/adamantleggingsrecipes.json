@@ -1,0 +1,36 @@
+{
+  "group": "mymodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "mymodpack:adamantingots"
+    },
+    "1": {
+      "item": "mymodpack:adamantingots"
+    },
+    "2": {
+      "item": "mymodpack:adamantingots"
+    },
+    "3": {
+      "item": "mymodpack:adamantingots"
+    },
+    "5": {
+      "item": "mymodpack:adamantingots"
+    },
+    "6": {
+      "item": "mymodpack:adamantingots"
+    },
+    "8": {
+      "item": "mymodpack:adamantingots"
+    }
+  },
+  "result": {
+    "item": "mymodpack:adamantarmorlegs",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "Items.NAUTILUS_SHELL"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WetSuit.helmet"
+    },
+    "name": "wetsuithelmet",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Mining Biome",
+    "groundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Mega pine trees",
+    "minHeight": 10,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.REDSTONE_ORE"
+    },
+    "treeStem": {
+      "value": "CUSTOM:OreWood"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:OreWood"
+    },
+    "treeFruits": {
+      "value": "CUSTOM:AdamantOre"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -3342388,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16737895,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16764058,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 1.0,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 30,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": []
+  }
+}
