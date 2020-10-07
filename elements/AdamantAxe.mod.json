@@ -16,7 +16,12 @@
     "enchantability": 12,
     "damageVsEntity": 30.0,
     "usageCount": 3000,
-    "blocksAffected": [],
+    "blocksAffected": [
+      {
+        "value": "minecraft:leaves"
+      }
+
+    ],
     "hasGlow": false,
     "repairItems": [
       {
@@ -24,4 +29,3 @@
       }
     ]
   }
-}

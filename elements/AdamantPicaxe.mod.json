@@ -16,7 +16,12 @@
     "enchantability": 12,
     "damageVsEntity": 4.0,
     "usageCount": 3000,
-    "blocksAffected": [],
+    "blocksAffected": [
+      {
+        "value": "minecraft:dirt",
+        "value": "minecraft:grass"
+      }
+    ],
     "hasGlow": false,
     "repairItems": [
       {
